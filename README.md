@@ -1,4 +1,3 @@
-
 🧠 Flask Quiz Application
 A simple, responsive web-based quiz application built with Flask, HTML, CSS, and Python. Users can answer multiple-choice questions loaded from a CSV file, get real-time score feedback, and enjoy an animated result screen with celebration effects for high scores.
 🚀 Features
